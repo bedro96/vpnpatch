@@ -1,0 +1,12 @@
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.0\VPNPatch.deps.json
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.0\VPNPatch.runtimeconfig.json
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.0\VPNPatch.runtimeconfig.dev.json
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.0\VPNPatch.dll
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.0\VPNPatch.pdb
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.csprojAssemblyReference.cache
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.AssemblyInfoInputs.cache
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.AssemblyInfo.cs
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.csproj.CoreCompileInputs.cache
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.dll
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.pdb
+C:\Users\bedro\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp2.0\VPNPatch.genruntimeconfig.cache

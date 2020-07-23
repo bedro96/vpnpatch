@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SueSsGbZNu+tEfWTUAfxt+nnGXcPD4j0ve8lUrySzkMUpCEWV6VjJnEX4wdUHYhjVXzKHSKjyhP+ogRnxBznPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bedro\\source\\repos\\vpnpatch\\ConsoleApp2\\VPNPatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bedro\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.6\\microsoft.netcore.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\bedro\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.6\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\bedro\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.win-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
