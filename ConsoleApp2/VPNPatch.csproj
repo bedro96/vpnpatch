@@ -6,11 +6,12 @@
     <Authors>Kunho Ko</Authors>
     <Company>Microsoft Korea</Company>
     <Product>Azure VPN Patch</Product>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <Optimize>true</Optimize>
+    <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
 
 </Project>

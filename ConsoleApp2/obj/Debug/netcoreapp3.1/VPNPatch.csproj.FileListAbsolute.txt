@@ -16,7 +16,6 @@ C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\bin\Debug\netcoreapp3.1\VPNPatc
 C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\bin\Debug\netcoreapp3.1\VPNPatch.runtimeconfig.dev.json
 C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\bin\Debug\netcoreapp3.1\VPNPatch.dll
 C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\bin\Debug\netcoreapp3.1\VPNPatch.pdb
-C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\obj\Debug\netcoreapp3.1\VPNPatch.csprojAssemblyReference.cache
 C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\obj\Debug\netcoreapp3.1\VPNPatch.AssemblyInfoInputs.cache
 C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\obj\Debug\netcoreapp3.1\VPNPatch.AssemblyInfo.cs
 C:\Users\bedro\source\repos\vpnpatch\ConsoleApp2\obj\Debug\netcoreapp3.1\VPNPatch.csproj.CoreCompileInputs.cache
